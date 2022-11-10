@@ -1,0 +1,24 @@
+{
+  "name": "webfinger-email2mastodon",
+  "version": "0.0.1",
+  "description": "webfinger server that maps email address to Mastodon account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudsecurityalliance/webfinger-email2mastodon.git"
+  },
+  "keywords": [
+    "webfinger",
+    "mastodon",
+    "email"
+  ],
+  "author": "Kurt Seifried <kseifried@cloudsecurityalliance.org>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cloudsecurityalliance/webfinger-email2mastodon/issues"
+  },
+  "homepage": "https://github.com/cloudsecurityalliance/webfinger-email2mastodon#readme"
+}
