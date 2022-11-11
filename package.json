@@ -1,6 +1,6 @@
 {
   "name": "webfinger-email2mastodon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "webfinger server that maps email address to Mastodon account",
   "main": "index.js",
   "scripts": {
